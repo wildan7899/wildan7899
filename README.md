@@ -87,6 +87,11 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wildan7899&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge" />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wildan7899&theme=nord&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+  
   <br/>
   <sub><i>¡Hala Madrid!</i></sub>
 </div>
