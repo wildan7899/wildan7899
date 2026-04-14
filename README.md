@@ -76,7 +76,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=wildan7899&theme=nord&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=wildan7899&theme=nord&hide_border=true&layout=compact" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=wildan7899&theme=nord&hide_border=true&layout=compact" height="200" />
 </div>
 <br/>
 <div align="center">
