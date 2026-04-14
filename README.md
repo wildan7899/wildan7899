@@ -40,7 +40,7 @@
   </tr>
 </table>
 
---
+
 
 ### 💻 Languages & Core
 <p>
@@ -70,28 +70,7 @@
   <img src="https://img.shields.io/badge/Wireguard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
 </p>
 
----
 
-## 📊 Analytics & Impact
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=wildan7899&theme=nord&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=wildan7899&theme=nord&hide_border=true&layout=compact" height="200" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=wildan7899&theme=nord&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wildan7899&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge" />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wildan7899&theme=nord&no-frame=true&no-bg=true&margin-w=15" />
-</div>
-  
   <br/>
   <sub><i>¡Hala Madrid!</i></sub>
 </div>
