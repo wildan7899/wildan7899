@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=%E3%80%8E%20Wildan%20Scott%20Kennedy%20%E3%80%8F&fontSize=45&fontColor=fff&animation=twinkling&desc=Informatics%20Engineering%20%7C%20Logic%20&%20Algorithms%20%7C%20Code%20Crafter&descAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=%E3%80%8E%20Wildan%20Scott%20Kennedy%20%E3%80%8F&fontSize=45&fontColor=fff&animation=twinkling&desc=%20%7C%20%20&%20Algorithms%20%7C%20Code%20Crafter&descAlignY=70" width="100%"/>
 
   <a href="https://github.com/wildan7899">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;C%2B%2B%2C+Kotlin+%26+Flutter+Enthusiast;Exploring+Algorithms+%26+Data+Structures;%C2%A1Hala+Madrid!+%E2%9A%BD" alt="Typing SVG" />
@@ -25,7 +25,7 @@
         <li><b>Name:</b> Wildan Afandika</li>
         <li><b>Base:</b> West Lombok, Indonesia</li>
         <li><b>Focus:</b> Software Engineering & Digital Logic</li>
-        <li><b>Vibe:</b> Coding :D  1112</li>
+        <li><b>Vibe:</b> Coding :D  </li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -33,7 +33,7 @@
       <ul>
         <li>🔭 <b>Working on:</b> Competitive Programming & C++</li>
         <li>🌱 <b>Learning:</b> Data Structures & Informatics Logic</li>
-        <li>🧠 <b>Interests:</b> Algorithms, Blockchain, Probability</li>
+        <li>🧠 <b>Interests:</b> Algorithms, Football, Probability</li>
         <li>⚽ <b>Off-screen:</b> Analyzing Real Madrid tactics</li>
       </ul>
     </td>
@@ -88,5 +88,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wildan7899&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge" />
   <br/>
-  <sub><i>"¡Hala Madrid y nada más!"</i></sub>
+  <sub><i>¡Hala Madrid!</i></sub>
 </div>
