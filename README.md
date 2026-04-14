@@ -1,12 +1,128 @@
-# 💫 About Me:
-# Hola 👋 I'm Wildan<br><br>A learner who enjoys code, logic, and challenging problems.<br><br>💻 Programming enthusiast  <br>🧠 Interested in algorithms, blockchain, and probability  <br>⚽ Football fan  <br><br>Currently learning:<br>- C++<br>- Data Structures<br>- Competitive programming<br><br>> ¡HalaMadrid!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:7209b7&height=220&section=header&text=%E3%80%8E%20Schryzon's%20Cyberspace%20%E3%80%8F&fontSize=45&fontColor=fff&animation=twinkling&desc=Cloud%20Engineer%20%7C%20DevOps%20Enthusiast%20%7C%20Backend%20Architect&descAlignY=70" width="100%"/>
 
+  <a href="https://github.com/Schryzon">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=b27ae4&center=true&vCenter=true&width=600&lines=System+Admin+by+day%2C+Developer+by+night;%F0%9F%8E%B5+sudo+play+conflict;Enterprise-ready+code+inside;Meow%2C+love+Networking.+" alt="Typing SVG" />
+  </a>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100053516618602) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@wldnmadridista) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@infinitykroos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afandikaw@gmail.com) 
+  <p align="center">
+    <a href="https://linkedin.com/in/schryzon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://g.dev/Jayananda"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /></a>
+    <a href="https://discord.com/application-directory/957471338577166417"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+  </p>
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+---
+
+## ⚡ Quick Start
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ Digital Presence</h3>
+      <ul>
+        <li><b>Real Name:</b> I Nyoman Widiyasa Jayananda</li>
+        <li><b>Current:</b> CS Student @ Universitas Mataram</li>
+        <li><b>Focus:</b> Scalable Infra & High-perf Backend</li>
+        <li><b>Vibe:</b> <i>"Iseng-iseng berhadiah, serius-serius berkarya."</i></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Status Check</h3>
+      <ul>
+        <li>🔭 <b>Working on:</b> 3DEX Marketplace Optimization</li>
+        <li>🌱 <b>Learning:</b> Rust & Advanced Kubernetes</li>
+        <li>💬 <b>Ask me about:</b> Networking & Discord Bots</li>
+        <li>🎮 <b>Currently:</b> Diving into Kingdom Hearts lore</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Arsenal
+
+### 💻 Programming & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### ⚙️ Infrastructure & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailscale-4433FF?style=flat-square&logo=tailscale&logoColor=white" />
+</p>
+
+### 🗄️ Database & Backend
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+</p>
+
+---
+
+## 🎨 Featured Works
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/Schryzon/RVDiA">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schryzon&repo=RVDiA&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Schryzon/XFFS">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schryzon&repo=XFFS&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Schryzon/NetTracer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schryzon&repo=NetTracer&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Schryzon/mpyCUDA">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schryzon&repo=mpyCUDA&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 Analytics & Impact
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Schryzon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schryzon&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schryzon&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Schryzon&label=SESSION+ESTABLISHED&color=7209b7&style=for-the-badge" />
+  <br/>
+  <sub><i>"Meow, love Networking." — Schryzon, 2026</i></sub>
+</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=wildan7899&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=wildan7899&theme=dark&hide_border=false)<br/>
