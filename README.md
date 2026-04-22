@@ -21,12 +21,3 @@ I'm an Informatics Engineering student and an enthusiastic software developer. I
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=8a8a8a" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=white&text_color=8a8a8a&sideNums=white&sideLabels=white&ring=white&fire=white&currStreakLabel=white&currStreakNum=white" alt="GitHub Streak" />
-</p>
