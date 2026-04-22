@@ -1,6 +1,32 @@
-<div align="center">
+# Hi there, I'm Wildan! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);I'm+Wildan+Afandika!&center=true&size=27)](https://git.io/typing-svg)
+I'm an Informatics Engineering student and an enthusiastic software developer. I love exploring new technologies, solving problems through code, and building applications.
 
+### 👨‍💻 About Me
 
-</div>
+- 🌱 I’m currently focusing on **Mobile Development, Algorithms, and C++**.
+- 🚀 Always open to collaborating on exciting projects and open-source contributions.
+- 💬 Ask me about **tech, programming, or anything related to software development**.
+- 📫 How to reach me: **[afandikaw@gmail.com]**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=8a8a8a" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=white&text_color=8a8a8a&sideNums=white&sideLabels=white&ring=white&fire=white&currStreakLabel=white&currStreakNum=white" alt="GitHub Streak" />
+</p>
