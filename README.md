@@ -1,12 +1,12 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NodTNqMWFuYW9rc2hwNjE2ZnZ2a2JxcnZkb21sbHJ1a3hmc3BjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" />
-          <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" />
-          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NodTNqMWFuYW9rc2hwNjE2ZnZ2a2JxcnZkb21sbHJ1a3hmc3BjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="225px" />
-        </picture>
+        <td align="center">
+           <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnI2NmY0OHZvaDB1a3R6ZW1ldzV4Y2JhdngyNGFtcmE2cnI5ano2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" />
+           <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnI2NmY0OHZvaDB1a3R6ZW1ldzV4Y2JhdngyNGFtcmE2cnI5ano2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" />
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnI2NmY0OHZvaDB1a3R6ZW1ldzV4Y2JhdngyNGFtcmE2cnI5ano2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" />
+        <br>
+        <b>........</b>
       </td>
     </tr>
   </table>
@@ -56,7 +56,15 @@ I'm an Informatics Engineering student and an enthusiastic software developer. I
 </table>
 
 
-<img src="https://media4.giphy.com/media/p35GY4YZXKlJC/giphy.gif" width="40">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/NtAVqKS7RHKVWxIPQA/giphy.gif" width="500" alt="Mahoraga Walking" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
