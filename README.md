@@ -32,12 +32,27 @@ I'm an Informatics Engineering student and an enthusiastic software developer. I
 ---
 
 ### 🛠️ Tech Stack & Tools
+<table>
+  <tr>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,dart,flutter,firebase,js,mysql,git,vscode,androidstudio&perline=6" />
+</div>
+</tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+<table><tr>
+  <div align="center">
+<td><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/></td>
+<td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/></td>
+<td><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/></td>
+<td><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/></td>
+<td><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65"/></td>
+  </div>
+</tr></table>
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+
+
 
