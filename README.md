@@ -30,26 +30,28 @@ I'm an Informatics Engineering student and an enthusiastic software developer. I
 - 📫 How to reach me: **[afandikaw@gmail.com]**
 
 ---
+<div align="center">
 
 ### 🛠️ Tech Stack & Tools
-<table>
+<table align="center">
   <tr>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,dart,flutter,firebase,js,mysql,git,vscode,androidstudio&perline=6" />
-</div>
-</tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,dart,flutter,firebase,js,mysql,git,vscode,androidstudio&perline=6" />
+    </td>
+  </tr>
 </table>
 
-<table><tr>
-  <div align="center">
-<td><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/></td>
-<td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/></td>
-<td><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/></td>
-<td><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/></td>
-<td><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65"/></td>
-  </div>
-</tr></table>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/>
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/>
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/>
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65"/>
+    </td>
+  </tr>
+</table>
 
 
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
