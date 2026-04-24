@@ -14,6 +14,9 @@
   </table>
 </div>
 
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
@@ -40,6 +43,12 @@ I'm an Informatics Engineering student and an enthusiastic software developer. I
 - 💬 Ask me about **tech, programming, or anything related to software development**.
 <br>
 <br>
+
+
+
+
+
+
 
 <div align="center">
 
@@ -117,7 +126,23 @@ I'm an Informatics Engineering student and an enthusiastic software developer. I
 </div>
 
 
+
+
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+
+
+<div align="center">
+<pre>
+  ▄ ▄   ▄█ █     ██▄   ██      ▄          ▄▄▄▄▄   ▄█▄    ████▄    ▄▄▄▄▀ ▄▄▄▄▀     █  █▀ ▄███▄      ▄      ▄   ▄███▄   ██▄ ▀▄    ▄ 
+ █   █  ██ █     █  █  █ █      █        █     ▀▄ █▀ ▀▄  █   █ ▀▀▀ █ ▀▀▀ █        █▄█   █▀   ▀      █      █  █▀   ▀  █  █  █  █  
+█ ▄   █ ██ █     █   █ █▄▄█ ██   █     ▄  ▀▀▀▀▄   █   ▀  █   █     █     █        █▀▄   ██▄▄    ██   █ ██   █ ██▄▄    █   █  ▀█   
+█  █  █ ▐█ ███▄  █  █  █  █ █ █  █      ▀▄▄▄▄▀    █▄  ▄▀ ▀████    █     █         █  █  █▄   ▄▀ █ █  █ █ █  █ █▄   ▄▀ █  █   █    
+ █ █ █   ▐     ▀ ███▀     █ █  █ █                ▀███▀          ▀     ▀            █   ▀███▀   █  █ █ █  █ █ ▀███▀   ███▀ ▄▀     
+  ▀ ▀                    █  █   ██                                                 ▀            █   ██ █   ██                     
+                        ▀                                                                                                         
+</pre>
+
+
 
 
 
