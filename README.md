@@ -54,11 +54,11 @@ I'm an Informatics Engineering student and an enthusiastic software developer. I
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/>
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/>
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/>
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/>
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65"/>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="63"/>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="63"/>
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="63"/>
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="63"/>
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="63"/>
     </td>
   </tr>
 </table>
@@ -66,16 +66,19 @@ I'm an Informatics Engineering student and an enthusiastic software developer. I
 
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/wildan7899/wildan7899/main/mahoragaWalk.gif" width="500" alt="Mahoraga Walking" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-<div align="center">
+<table>
+<tr>
+<td align="center" style="border:2px solid #444; padding:10px;">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1400&color=E6EDF3&center=true&vCenter=true&width=500&lines=Debug+like+Mahoraga;Adapt+to+every+error;The+wheel+keeps+turning;Evolution+through+code"/>
+<br>
+<img src="https://raw.githubusercontent.com/wildan7899/wildan7899/main/mahoragaWalk.gif" width="500"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 
