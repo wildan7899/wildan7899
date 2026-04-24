@@ -69,13 +69,14 @@ I'm an Informatics Engineering student and an enthusiastic software developer. I
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/NtAVqKS7RHKVWxIPQA/giphy.gif" width="500" alt="Mahoraga Walking" />
+        <img src="https://raw.githubusercontent.com/wildan7899/wildan7899/main/mahoragaWalk.gif" width="500" alt="Mahoraga Walking" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
+
 
 
 
