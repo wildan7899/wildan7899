@@ -33,11 +33,42 @@
 I'm an Informatics Engineering student and an enthusiastic software developer. I love exploring new technologies, solving problems through code, and building applications.
 
 ### 👨‍💻 About Me
+<table>
 
 - 🌱 I’m currently focusing on **Mobile Development, Algorithms, and C++**.
 - 🚀 Always open to collaborating on exciting projects and open-source contributions.
 - 💬 Ask me about **tech, programming, or anything related to software development**.
-- 📫 How to reach me: **[afandikaw@gmail.com]**
+<br>
+<br>
+
+<div align="center">
+
+## <b>📫 How to reach me</b>
+  <table align="center">
+    <tr>
+      <td width="160" align="center">
+        <a href="mailto:afandikaw@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </td>
+      <td width="160" align="center">
+        <a href="https://www.facebook.com/profile.php?id=100053516618602">
+          <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+        </a>
+      </td>
+      <td width="160" align="center">
+        <a href="https://instagram.com/@wldnmadridista">
+          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+        </a>
+      </td>
+      <td width="160" align="center">
+        <a href="https://tiktok.com/@infinitykroos">
+          <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
 
 ---
 <div align="center">
