@@ -6,6 +6,8 @@
            <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnI2NmY0OHZvaDB1a3R6ZW1ldzV4Y2JhdngyNGFtcmE2cnI5ano2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" />
         <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnI2NmY0OHZvaDB1a3R6ZW1ldzV4Y2JhdngyNGFtcmE2cnI5ano2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" />
         <br>
+          <p align="center">
+</p>
         <b>........</b>
       </td>
     </tr>
@@ -19,7 +21,13 @@
 </picture>
 
 
+<table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wildan7899&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+</table>
 
+  
   # Hi there, I'm Wildan! 👋
 
 I'm an Informatics Engineering student and an enthusiastic software developer. I love exploring new technologies, solving problems through code, and building applications.
@@ -56,6 +64,7 @@ I'm an Informatics Engineering student and an enthusiastic software developer. I
 </table>
 
 
+
 <div align="center">
   <table>
     <tr>
@@ -64,6 +73,12 @@ I'm an Informatics Engineering student and an enthusiastic software developer. I
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+
+
+
 </div>
 
 
