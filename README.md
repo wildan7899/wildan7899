@@ -15,11 +15,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://reload.gif" width="300">
-  <br>
-  <code>[||||||||||||||||      ] 75%</code>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
